@@ -12,5 +12,5 @@ UR5_Connection.mlx is a Live script MATLAB file. There are separated sections fo
 
 3. In src folder in your catkin workspace, you must create git clone by following this code:
 
-$ cd ~/<you_catkin_workspace_name>/src
+$ cd ~/<you_catkin_workspace_name>/src /n
 $ git clone -b melodic-devel https://github.com/ros-industrial/universal_robot.git src/universal_robot 
